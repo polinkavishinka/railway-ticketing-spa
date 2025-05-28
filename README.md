@@ -2,11 +2,15 @@
 
 Веб-приложение для поиска и бронирования железнодорожных билетов.
 
+## Демо
+
+Приложение доступно по ссылке: [Railway Ticketing SPA](https://polinkavishinka.github.io/railway-ticketing-spa/)
+
 ## Установка и запуск
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/your-username/railway-ticketing-spa.git
+git clone https://github.com/polinkavishinka/railway-ticketing-spa.git
 ```
 
 2. Установите зависимости:
@@ -20,11 +24,11 @@ npm install
 npm start
 ```
 
-Прило
+Приложение будет доступно по адресу [http://localhost:3000](http://localhost:3000)
 
 ## Скрипты
 
 - `npm start` - Запуск в режиме разработки
-- `npm build` - Сборка для продакшена
-- `npm run eject` - Извлечение конфигурации Create React App
+- `npm run build` - Сборка для продакшена
+- `npm run deploy` - Деплой на GitHub Pages
 
