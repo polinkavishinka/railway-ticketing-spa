@@ -13,10 +13,10 @@ const Header = () => {
         </div>
         <div className="header__nav-container">
           <ul className="header__nav-list">
-            <Link link="about" title="О нас" />
-            <Link link="hiw" title="Как это работает" />
-            <Link link="feedback" title="Отзывы" />
-            <Link link="footer" title="Контакты" />
+            <Link link="#about" title="О нас" />
+            <Link link="#hiw" title="Как это работает" />
+            <Link link="#feedback" title="Отзывы" />
+            <Link link="#footer" title="Контакты" />
           </ul>
         </div>
       </nav>
