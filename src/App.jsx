@@ -10,7 +10,7 @@ import SuccessOrderPage from "./pages/SuccessOrderPage/SuccessOrderPage";
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/railway-ticketing-spa">
       <Routes>
         <Route path="/" element={<MainPage />} />
         <Route path="/trains" element={<SelectionTrainPage />} />

@@ -1,9 +1,11 @@
+import { HashLink } from 'react-router-hash-link';
+
 const Link = ({ link, title }) => {
   return (
     <li className="header__nav-item">
-      <a href={link} className="header__nav-link">
+      <HashLink smooth to={link} className="header__nav-link">
         {title}
-      </a>
+      </HashLink>
     </li>
   );
 };
