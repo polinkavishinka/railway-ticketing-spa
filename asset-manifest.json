@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/railway-ticketing-spa/static/css/main.d08dc87b.css",
-    "main.js": "/railway-ticketing-spa/static/js/main.74b3aed3.js",
+    "main.js": "/railway-ticketing-spa/static/js/main.09342181.js",
     "static/media/banner3.png": "/railway-ticketing-spa/static/media/banner3.37330d37f302fe7783a4.png",
     "static/media/banner.png": "/railway-ticketing-spa/static/media/banner.874dd97f872a3e954681.png",
     "static/media/hiw-background.png": "/railway-ticketing-spa/static/media/hiw-background.caf41202ecfdfefdbdbf.png",
@@ -14,10 +14,10 @@
     "static/media/carriage-first.svg": "/railway-ticketing-spa/static/media/carriage-first.f6f8f873fb61b61ea23b.svg",
     "index.html": "/railway-ticketing-spa/index.html",
     "main.d08dc87b.css.map": "/railway-ticketing-spa/static/css/main.d08dc87b.css.map",
-    "main.74b3aed3.js.map": "/railway-ticketing-spa/static/js/main.74b3aed3.js.map"
+    "main.09342181.js.map": "/railway-ticketing-spa/static/js/main.09342181.js.map"
   },
   "entrypoints": [
     "static/css/main.d08dc87b.css",
-    "static/js/main.74b3aed3.js"
+    "static/js/main.09342181.js"
   ]
 }
