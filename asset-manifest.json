@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/railway-ticketing-spa/static/css/main.d08dc87b.css",
+    "main.js": "/railway-ticketing-spa/static/js/main.14684eb5.js",
+    "static/media/banner3.png": "/railway-ticketing-spa/static/media/banner3.37330d37f302fe7783a4.png",
+    "static/media/banner.png": "/railway-ticketing-spa/static/media/banner.874dd97f872a3e954681.png",
+    "static/media/hiw-background.png": "/railway-ticketing-spa/static/media/hiw-background.caf41202ecfdfefdbdbf.png",
+    "static/media/banner2.png": "/railway-ticketing-spa/static/media/banner2.d2da96235251baeb5560.png",
+    "static/media/feedback2.png": "/railway-ticketing-spa/static/media/feedback2.dc8f1717b6bb631b1d80.png",
+    "static/media/feedback1.png": "/railway-ticketing-spa/static/media/feedback1.afedf73bf74e71a516da.png",
+    "static/media/carriage-fourth.svg": "/railway-ticketing-spa/static/media/carriage-fourth.92ee0e706be227f185c6.svg",
+    "static/media/carriage-third.svg": "/railway-ticketing-spa/static/media/carriage-third.638204ec051406f88cea.svg",
+    "static/media/carriage-second.svg": "/railway-ticketing-spa/static/media/carriage-second.325f8fec22ea27a2e779.svg",
+    "static/media/carriage-first.svg": "/railway-ticketing-spa/static/media/carriage-first.f6f8f873fb61b61ea23b.svg",
+    "index.html": "/railway-ticketing-spa/index.html",
+    "main.d08dc87b.css.map": "/railway-ticketing-spa/static/css/main.d08dc87b.css.map",
+    "main.14684eb5.js.map": "/railway-ticketing-spa/static/js/main.14684eb5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d08dc87b.css",
+    "static/js/main.14684eb5.js"
+  ]
+}
